@@ -1,5 +1,5 @@
 # Laravel PHP Framework
-This App using Laravel version 5.3
+This App using Laravel 
 
 ## Official Laravel Documentation
 
